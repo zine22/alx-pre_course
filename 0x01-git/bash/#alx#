@@ -1,0 +1,19 @@
+case exit in
+    help)
+	
+	;;
+    -_)
+	
+	;;
+    -c)
+	
+	;;
+    C-x C-c)
+	    
+	    ;;
+	    *)
+		
+	    esac
+
+	    #!/bin/bash
+ echo "ALX" 
